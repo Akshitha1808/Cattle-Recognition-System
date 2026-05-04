@@ -91,6 +91,8 @@ muzzle-recognition/
 
 * GitHub: https://github.com/Akshitha1808
 
+* LinkedIn : https://www.linkedin.com/in/akshitha-gandhi-sankaranarayanan-6731072b7/
+
 ---
 
 ## ⭐ Acknowledgement
