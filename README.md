@@ -78,7 +78,7 @@ muzzle-recognition/
 
 ## 🔮 Future Enhancements
 
-* Web-based interface (Flask/Streamlit)
+* Web-based interface 
 * Real-time camera detection
 * Deep learning-based model (CNN)
 * Mobile app integration
